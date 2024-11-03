@@ -1,0 +1,273 @@
+[33mcommit deee6b7125887eb61a0edf430731d00c2713ed1b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fb54b39 1fd8c50
+Author: Edcel09 <edcel.mondaya@accenture.com>
+Date:   Sun Nov 3 09:43:23 2024 +0800
+
+    Commit all changes
+
+[33mcommit fb54b39b22f3a990ffe6948004a6856f7d83c36b[m
+Author: Edcel09 <edcel.mondaya@accenture.com>
+Date:   Sun Nov 3 09:36:04 2024 +0800
+
+    Changed Index and Manifests
+
+[33mcommit 1fd8c502b548e0b5277813de7900b0eb341e1dc0[m
+Author: Edcel09 <edcel.mondaya@accenture.com>
+Date:   Sun Nov 3 09:33:35 2024 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit eb859fac61d9bb2e480493a377eb1bdccdabcdff[m
+Author: Edcel09 <edcel.mondaya@accenture.com>
+Date:   Mon Oct 28 11:55:05 2024 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit a75d0c362b51332ca60b37b652d33678390beee1[m
+Author: Davide Benvegnù aka CoderDave <davide.benvegnu@outlook.com>
+Date:   Mon Nov 22 16:26:09 2021 +0800
+
+    Update azure-pipelines.yml
+
+[33mcommit 430533c26a4a92536813857bcf1f12fe9f7e127a[m
+Author: Davide Benvegnù aka CoderDave <davide.benvegnu@outlook.com>
+Date:   Mon Oct 4 16:52:16 2021 +0800
+
+    Update k8s yaml validation.yml
+
+[33mcommit 1ee0af265e038555b3ef1ec189df6fee69d40725[m
+Author: Davide Benvegnù aka CoderDave <davide.benvegnu@outlook.com>
+Date:   Mon Oct 4 16:49:38 2021 +0800
+
+    Update k8s yaml validation.yml
+
+[33mcommit 093f0f0da3a1ced8f773007e3d369b2bdfe4d987[m
+Author: Davide Benvegnù aka CoderDave <davide.benvegnu@outlook.com>
+Date:   Mon Oct 4 16:46:38 2021 +0800
+
+    Create k8s yaml validation.yml
+
+[33mcommit cef3ebe80d1398a1d8ac85ca590fe825ed72b5b1[m
+Merge: a5f89ec 361218c
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Tue Aug 3 22:25:25 2021 +0800
+
+    Merge branch 'main' of github.com:n3wt0n/Deploy-to-AKS
+
+[33mcommit a5f89ec70829813761129034cb7b9a9229f723db[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Tue Aug 3 22:25:13 2021 +0800
+
+    Changed Manifest and Index
+
+[33mcommit 361218ce8b3c333959d48f13f59326f8b9158388[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Tue Aug 3 22:23:48 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 6bc82d4673f7ee3583ebdcd77f9e19291ff61841[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Tue Aug 3 22:11:34 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit abde18a5ee8220a155c149589028316b43a5d76b[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Tue Aug 3 22:01:16 2021 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 2b6789c45a564a297717d41c8012fb6d4797e53c[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 15:04:11 2021 +0800
+
+    Reset
+
+[33mcommit c92d4ca8c3c7b41b1b98fda151e0fdcdcb3bd477[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:51:02 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit d5ca83e77ffbd06883e9f563e29790330d653e71[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:49:48 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit ab66ec4b3fafd86b0b6720097d503f97fa6e8278[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:43:15 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 9c4e2c4c552a45b791a91d5b6b161a1d3b0b1a7e[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:40:53 2021 +0800
+
+    Changed
+
+[33mcommit 683710e4556c0ad4f084e06b28508680de7a00ab[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:35:40 2021 +0800
+
+    Changed
+
+[33mcommit 82e95746d9893ae7ef41b3c0ffd2f6f4d8b9961b[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:31:34 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 90c1d3af08fec6c39b22909e3655602e5ca3ded3[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 14:27:12 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 18826166cd20d85530b4848d023afe223fc0ecf0[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 13:47:20 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 0e7f44f7ec8f83aaa262526c54469a433e892e2d[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 13:38:42 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 0754b78d915b55546875725db2857ba9bd47137f[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 12:12:45 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit c415b457a3f8910a59c0da7eaf1ac221ef6ae1a5[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 12:00:49 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 92350c32af5a760628da03cec5b09c63723db4ff[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:54:10 2021 +0800
+
+    Update azure-pipelines.yml
+
+[33mcommit 2eeae8a3f55be376a19a98fdf771fd7181d9260e[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:46:28 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 712256c7268d5a7c9a924fff987ac724697d5d78[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:42:10 2021 +0800
+
+    Update azure-pipelines.yml
+
+[33mcommit 2109dea2378489db53bef2fff40770fbdd48a0c6[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:38:32 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit d8351c90048228a52b065d75a1f8b6b83411a69d[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:37:24 2021 +0800
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 1a7f47c1a541ab17234b9e610c4807e0595602ef[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:28:01 2021 +0800
+
+    Changes
+
+[33mcommit 9c87355946ce71df6a927cff0e9f5073f8e71636[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:26:38 2021 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit f757f24a83dbecb842c3ad0bacbb60999bb695bc[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:25:15 2021 +0800
+
+    Delete azure-pipelines.yml
+
+[33mcommit 37a4b8e1d6561ff7630914eb595a565bfe6a2d87[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:22:08 2021 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 129c8a2d7110d4e5189bcf4cebe09e32d4f67f71[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:14:06 2021 +0800
+
+    Changes
+
+[33mcommit 69e8080718b1fc335058ae94685213f0a2321988[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:13:06 2021 +0800
+
+    Delete manifests directory
+
+[33mcommit e64f3f72648b212fc40aff1dd316a2e43289296d[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 11:12:58 2021 +0800
+
+    Delete azure-pipelines.yml
+
+[33mcommit 88aba375430692caebd7a836adab9070f32f3b23[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 10:59:33 2021 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 051a98831f40d52472983a66261f5bfa0f32851c[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 10:59:32 2021 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 58e2a2de8a522fa9b2c66da9df95add804df6fe9[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 10:59:31 2021 +0800
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit b8e2335b714e8f576c168054214ae25c04248d39[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 10:51:16 2021 +0800
+
+    Cleaned the project
+
+[33mcommit b37ee434efe27a0215965f1427c4c374257237bc[m
+Author: Davide Benvegnu <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 10:09:07 2021 +0800
+
+    Initial commit
+
+[33mcommit a713410f5c6bb25f9f97c36501f8d481e0f01088[m
+Author: Davide Benvegnù <davide.benvegnu@outlook.com>
+Date:   Mon Aug 2 10:07:45 2021 +0800
+
+    Initial commit
