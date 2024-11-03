@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dabenveg\\.nuget\\packages\\": {}
+    "C:\\Users\\edcel.mondaya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Prj\\K8SExamples\\app\\SampleWebApp\\SampleWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\edcel.mondaya\\Desktop\\DevOps Training\\Deploy-to-AKS\\app\\SampleWebApp\\SampleWebApp.csproj",
       "projectName": "SampleWebApp",
-      "projectPath": "C:\\Prj\\K8SExamples\\app\\SampleWebApp\\SampleWebApp.csproj",
-      "packagesPath": "C:\\Users\\dabenveg\\.nuget\\packages\\",
-      "outputPath": "C:\\Prj\\K8SExamples\\app\\SampleWebApp\\obj\\",
+      "projectPath": "C:\\Users\\edcel.mondaya\\Desktop\\DevOps Training\\Deploy-to-AKS\\app\\SampleWebApp\\SampleWebApp.csproj",
+      "packagesPath": "C:\\Users\\edcel.mondaya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edcel.mondaya\\Desktop\\DevOps Training\\Deploy-to-AKS\\app\\SampleWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dabenveg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edcel.mondaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -51,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
